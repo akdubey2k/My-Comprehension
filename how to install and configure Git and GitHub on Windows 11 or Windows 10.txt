@@ -9,6 +9,9 @@ git add filename
 git status
 git commit -m "comment" filename
 
+git config --global user.email "amitkumardubey.2k@gmail.com"
+git config --global user.name "akdubey2k"
+
 
 -------------------------------------------------------------------------------
 
