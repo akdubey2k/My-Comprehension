@@ -9,6 +9,10 @@ git add filename
 git status
 git commit -m "comment" filename
 
+
+-------------------------------------------------------------------------------
+
+
 Set Up Git:
 git config --global user.name "Your Name"
 git config --global user.email "youremail@domain.com"
