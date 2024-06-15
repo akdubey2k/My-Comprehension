@@ -1,0 +1,46 @@
+https://www.youtube.com/watch?v=AdzKzlp66sQ&t=1451s
+
+Learn how to install and configure Git and GitHub on Windows 11/ Windows 10 with this comprehensive tutorial. #Git #GitHub #Windows11 #Windows10 #gittutorial 
+
+
+git init
+git status
+git add filename
+git status
+git commit -m "comment" filename
+
+Set Up Git:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+other commands
+git clone (url)
+git add (file names)
+git commit -m "(committed message)
+git push -u origin main 
+git remote add origin main (url)( https://tokenhere@github.com/user_name/repo_name.git)
+
+FIX: "Support for password authentication was removed. Please use a personal access token instead."
+
+git clone https://tokenhere@github.com/user_name/repo_name.git
+
+Git is a popular version control system used by developers to track changes in their code repositories. GitHub, on the other hand, is a web-based platform that provides hosting for Git repositories and offers additional collaboration features.
+
+In this tutorial, you will discover the step-by-step process of installing and configuring Git and GitHub on Windows 11. Whether you are a beginner or an experienced developer, this tutorial will provide you with the knowledge and skills to effectively use Git and GitHub in your projects.
+
+The tutorial covers topics such as:
+
+1. Installing Git: You will learn how to install Git using the package manager on Windows 11. We will guide you through the installation process, ensuring that you have Git up and running on your system.
+
+2. Configuring Git: After installation, you will understand how to configure Git with your username and email address. This configuration is essential for properly attributing your commits.
+
+3. Setting up GitHub: You will explore the process of creating a GitHub account and configuring Git to work with GitHub. This includes generating SSH keys, adding them to your GitHub account, and establishing the connection between your local Git repository and GitHub.
+
+By the end of this tutorial, you will have a solid understanding of how to install and configure Git and GitHub on Windows 11. You will be ready to start using Git for version control and collaborate with others using the powerful features of GitHub.
+
+Join us in this tutorial and take your development workflow to the next level with Git and GitHub! #VersionControl #Collaboration #DevOps #SoftwareDevelopment
+Git  is a  distributed version control system.  This video shows How to Get Started with Git and Github and teaches The Basics of Git and GitHub.
+
+Version Control ? - Version control systems are a category of software tools that help a software team manage changes to source code over time.
+What is GIT? - By far, the most widely used modern version control system in the world today is Git. Git is a mature, actively maintained open source project originally developed in 2005
+Why GIT? - Relying on software for mission-critical applications, altering your development workflow impacts your entire business. Git isn’t just for agile software development—it’s for agile business.
